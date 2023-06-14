@@ -1,0 +1,5 @@
+/.idea
+/mssql-server-db/tests_results
+/mysql-db/tests_results
+/oracle-db/tests_results
+/postgresql-db/tests_results
